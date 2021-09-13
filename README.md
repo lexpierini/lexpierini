@@ -30,6 +30,9 @@
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
    <img align="center" alt="Alex-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <a/>
+  <a href="https://docs.oracle.com/en/java/" target="_blank">
+   <img align="center" alt="Alex-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <a/>   
   <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank">
    <img align="center" alt="Alex-MicrosoftSqlServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
   <a/>
@@ -41,9 +44,12 @@
  ##
   
 <div>   
-  <a href="https://www.linkedin.com/in/alex-pierini/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- <!--- ![Snake animation](https://github.com/lexpierini/lexpierini/blob/main/.github/workflows/snake.yml) -->
- ![Snake animation](https://github.com/lexpierini/lexpierini/blob/output/github-contribution-grid-snake.svg)
- 
+  <a href="https://www.linkedin.com/in/alex-pierini/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+ ![Snake animation](https://github.com/lexpierini/lexpierini/blob/output/github-contribution-grid-snake.svg) 
 </div>
+   
+<!---
+https://www.youtube.com/watch?v=TsaLQAetPLU&list=WL&index=14&ab_channel=RafaellaBallerini
+https://www.instagram.com/p/CPjUBhXDNEE/
+https://devicon.dev/
+-->
