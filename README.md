@@ -32,7 +32,7 @@
    <img align="center" alt="Alex-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <a/>   
   <a href="https://spring.io/projects/spring-boot" target="_blank">
-   <img align="center" alt="Alex-SpringBoot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
+   <img align="center" alt="Alex-SpringBoot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <a/>   
   <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank">
    <img align="center" alt="Alex-MicrosoftSqlServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
