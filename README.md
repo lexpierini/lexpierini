@@ -41,7 +41,7 @@
    <img align="center" alt="Alex-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <a/>
    <a href="https://www.postgresql.org/" target="_blank">
-   <img align="center" alt="Alex-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+   <img align="center" alt="Alex-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <a/>
 </div>
   
