@@ -13,12 +13,10 @@
   <a/>
   <a href="https://www.javascript.com/" target="_blank">
    <img align="center" alt="Alex-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <a/>
-  <!---
+  <a/>  
   <a href="https://www.typescriptlang.org/" target="_blank">
    <img align="center" alt="Alex-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <a/>
-  -->
   <a href="https://www.w3.org/TR/html52/" target="_blank">
    <img align="center" alt="Alex-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <a/>
