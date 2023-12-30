@@ -1,6 +1,6 @@
  <div>
   <a href="https://github.com/lexpierini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lexpierini&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lexpierini&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_rank=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lexpierini&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
   
@@ -59,4 +59,5 @@ https://www.youtube.com/watch?v=TsaLQAetPLU&list=WL&index=14&ab_channel=Rafaella
 https://www.instagram.com/p/CPjUBhXDNEE/
 https://devicon.dev/
 https://dev.to/envoy_/150-badges-for-github-pnk
+https://github.com/anuraghazra/github-readme-stats
 -->
