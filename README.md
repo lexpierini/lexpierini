@@ -63,4 +63,6 @@ https://www.instagram.com/p/CPjUBhXDNEE/
 https://devicon.dev/
 https://dev.to/envoy_/150-badges-for-github-pnk
 https://github.com/anuraghazra/github-readme-stats
+
+Quando a cobrinha parar, vá apra Actions et rode manualmente o workflow
 -->
