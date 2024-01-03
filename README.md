@@ -14,6 +14,9 @@
   <a href="https://redux.js.org/" target="_blank">
    <img align="center" alt="Alex-Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
   <a/>
+  <a href="https://mui.com/" target="_blank">
+   <img align="center" alt="Alex-Mui" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-plain.svg" />
+  <a/>
   <a href="https://www.javascript.com/" target="_blank">
    <img align="center" alt="Alex-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <a/>  
@@ -29,12 +32,12 @@
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
    <img align="center" alt="Alex-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <a/>
-  <a href="https://docs.oracle.com/en/java/" target="_blank">
+<!--   <a href="https://docs.oracle.com/en/java/" target="_blank">
    <img align="center" alt="Alex-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <a/>   
   <a href="https://spring.io/" target="_blank">
    <img align="center" alt="Alex-SpringBoot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-  <a/>   
+  <a/>    -->
   <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank">
    <img align="center" alt="Alex-MicrosoftSqlServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
   <a/>
@@ -51,12 +54,14 @@
 <div>   
  <a href="https://www.linkedin.com/in/alex-pierini/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">   
+ </a>   
+  <a href="https://vercel.com/alex-pierinis-projects/" target="_blank">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" target="_blank">   
  </a>  
+</div>
  
 <!--- ![Snake animation](https://github.com/lexpierini/lexpierini/blob/output/github-contribution-grid-snake.svg) -->
- 
-</div>
-   
+    
 <!---
 https://www.youtube.com/watch?v=TsaLQAetPLU&list=WL&index=14&ab_channel=RafaellaBallerini
 https://www.instagram.com/p/CPjUBhXDNEE/
