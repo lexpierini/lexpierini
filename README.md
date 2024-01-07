@@ -55,9 +55,9 @@
  <a href="https://www.linkedin.com/in/alex-pierini/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">   
  </a>   
-  <a href="https://vercel.com/alex-pierinis-projects/" target="_blank">
+<!--  <a href="https://vercel.com/alex-pierinis-projects/" target="_blank">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" target="_blank">   
- </a>  
+ </a>   -->
 </div>
  
 <!--- ![Snake animation](https://github.com/lexpierini/lexpierini/blob/output/github-contribution-grid-snake.svg) -->
