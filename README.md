@@ -1,5 +1,3 @@
-# Alex Pierini
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,redux,mui,js,ts,html,css,cs,mysql,postgres" />
 </p>
