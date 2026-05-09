@@ -1,91 +1,18 @@
-<div align="center">
-  <a href="https://github.com/lexpierini">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lexpierini&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_rank=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lexpierini&layout=compact&langs_count=7&theme=github_dark"/>
-  </a>
-</div>
+# Alex Pierini
 
-<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,redux,mui,js,ts,html,css,cs,mysql,postgres" />
+</p>
 
-<div align="center">
+<!-- <p align="center">
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+</p> -->
 
-  <a href="https://nextjs.org/" target="_blank">
-    <img align="center" alt="Alex-Next" height="30" width="40"
-      src="https://github.com/lexpierini/lexpierini/blob/main/img/nextjs_white2.svg">
-  </a>
-
-  <a href="https://reactjs.org/" target="_blank">
-    <img align="center" alt="Alex-React" height="30" width="40"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  </a>
-
-  <a href="https://redux.js.org/" target="_blank">
-    <img align="center" alt="Alex-Redux" height="30" width="40"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
-  </a>
-
-  <a href="https://mui.com/" target="_blank">
-    <img align="center" alt="Alex-Mui" height="30" width="40"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-plain.svg">
-  </a>
-
-  <a href="https://www.javascript.com/" target="_blank">
-    <img align="center" alt="Alex-Js" height="30" width="40"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  </a>
-
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img align="center" alt="Alex-Ts" height="30" width="40"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  </a>
-
-  <a href="https://www.w3.org/TR/html52/" target="_blank">
-    <img align="center" alt="Alex-HTML" height="30" width="40"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img align="center" alt="Alex-CSS" height="30" width="40"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  </a>
-
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-    <img align="center" alt="Alex-Csharp" height="30" width="40"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  </a>
-
-  <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank">
-    <img align="center" alt="Alex-MicrosoftSqlServer" height="30" width="40"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
-  </a>
-
-  <a href="https://www.mysql.com/" target="_blank">
-    <img align="center" alt="Alex-MySQL" height="30" width="40"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  </a>
-
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img align="center" alt="Alex-PostgreSQL" height="30" width="40"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  </a>
-
-</div>
-
-<br>
-
-<div align="center">
-
+<p align="center">
   <a href="https://www.linkedin.com/in/alex-pierini/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
-  <!--
-  <a href="https://vercel.com/alex-pierinis-projects/" target="_blank">
-    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
-  </a>
-  -->
-
-</div>
+</p>
 
 <!-- Snake animation -->
 <!-- ![Snake animation](https://github.com/lexpierini/lexpierini/blob/output/github-contribution-grid-snake.svg) -->
